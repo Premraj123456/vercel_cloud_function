@@ -1,0 +1,4 @@
+{
+    "redirects": [{ "source": "/", "destination": "/api" }],
+    "crons": [{ "path": "/api", "schedule": "0 0 * * *" }]
+}
